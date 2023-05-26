@@ -7,5 +7,5 @@ Cara Install
 3. Npm install
 4. Php artisan key:generate
 5. Php artisan migrate
-6. Php artisan storage:link
+6. Php artisan storage:link (agar image muncul)
 7. Npm run dev & Php artisan serve
