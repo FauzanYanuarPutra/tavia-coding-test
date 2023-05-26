@@ -4,7 +4,7 @@ Cara Install
 
 1. Git clone https://github.com/Fauzanyan/tavia-coding-test.git
 2. Buat .env.example jadi .env
-3. composer install
+3. composer install / composer update
 4. Php key:generate
 5. Npm install
 6. Php artisan key:generate
